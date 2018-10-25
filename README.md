@@ -11,3 +11,9 @@ sudo apt install tshark
 after executing `python3 trafficMatrix.py your_capture_file.pcap.gz`, you'll get  
 * <samp>ips.txt</samp> with all the IPv4 addresses of the .pcap
 * <samp>matrix.txt</samp> with the resulting traffic matrix (no header row/column)
+
+### example
+
+screenshot of the resulting matrix, formatted in excel:  
+
+![](matrix_excel.png)
